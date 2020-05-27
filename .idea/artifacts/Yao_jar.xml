@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Yao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yao_jar</output-path>
+    <root id="archive" name="Yao.jar">
+      <element id="module-output" name="Yao" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
