@@ -11,4 +11,5 @@
 ## 进入游戏后，拿着 箭 对着生物右键
 - 1.12.2向上兼容
 - 可以堆成人山
-- 不会编译？ 来 [MineBBS](https://www.minebbs.com/resources/1-12-x-1-16-x.1283/) 下载
+- 不会编译？ 来 [这里](./out/artifacts/Yao_jar/) 下载
+- [MCBBS](https://www.minebbs.com/resources/1-12-x-1-16-x.1283/)
